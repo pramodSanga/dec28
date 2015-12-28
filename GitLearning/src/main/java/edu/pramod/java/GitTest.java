@@ -7,7 +7,7 @@ public class GitTest {
 		System.out.println("Second line");
 		System.out.println("Third line");
 		System.out.println("fourt file");
-		
+		System.out.println("added from github file");
 		
 	}
 
